@@ -6,6 +6,8 @@ To install:
 3. Extract EasyEmoteBlocker to a folder
 4. Load the unpacked folder in chrome://extensions
 
+ [Easy Emote Blocker is also available on the Chrome Web Store!](https://chromewebstore.google.com/detail/easy-emote-blocker/ncfjcdjkeemnkdkcidmokmkbomgboffj)
+
 ## popup .html .css .js
 Extension GUI
 
